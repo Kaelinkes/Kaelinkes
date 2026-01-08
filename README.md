@@ -5,8 +5,11 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaelinkes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaelinkes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaelinkes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelinkes&layout=compact&langs_count=8&theme=dracula" height="150" />
+</div>
+
 </div>
 
 ###
