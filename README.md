@@ -62,10 +62,7 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
   <a href="https://github.com/Kaelinkes">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/kaelin-kesavjee-a947b0243/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
