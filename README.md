@@ -1,21 +1,15 @@
 <!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXO_Kaelin&layout=compact&langs_count=8&theme=dracula" height="170" alt="Top languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelinkes&layout=compact&langs_count=8&theme=dracula" height="170" alt="Top languages graph" />
 </div>
-
-###
 
 <h2 align="left">
 Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 </h2>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaelinkes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaelinkes&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
 </div>
-
-###
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -62,12 +56,7 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
   </a>
 </div>
 
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-⭐ *Always learning. Always building.*
+<!-- Snake animation locally -->
+<img src="assets/snake.svg" alt="Snake animation" />
