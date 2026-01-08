@@ -1,3 +1,10 @@
+<!-- 🔝 TOP LANGUAGES FIRST -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelinkes&layout=compact&langs_count=8&theme=dracula" height="170" alt="Top languages graph" />
+</div>
+
+###
+
 <h2 align="left">
 Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 </h2>
@@ -5,11 +12,7 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 ###
 
 <div align="center">
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaelinkes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelinkes&layout=compact&langs_count=8&theme=dracula" height="150" />
-</div>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaelinkes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
 </div>
 
 ###
