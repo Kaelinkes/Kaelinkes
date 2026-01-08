@@ -1,6 +1,6 @@
 <!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelinkes&layout=compact&langs_count=8&theme=dracula" height="170" alt="Top languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXO_Kaelin&layout=compact&langs_count=8&theme=dracula" height="170" alt="Top languages graph" />
 </div>
 
 ###
