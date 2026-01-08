@@ -1,6 +1,3 @@
-here is my updated one adapt this one 
-
-
 <h2 align="left">
 Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 </h2>
