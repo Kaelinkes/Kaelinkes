@@ -63,7 +63,7 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelinkes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-//![GitHub Streak](https://streak-stats.demolab.com/?user=Kaelinkes&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kaelinkes&theme=dark&hide_border=false)
 
 ---
 
@@ -83,3 +83,5 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 
 
 ⭐ *Always learning. Always building.*
+
+![End GIF](https://gifs.alphacoders.com/gifs/view/221749)
