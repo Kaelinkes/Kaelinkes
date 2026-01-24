@@ -72,14 +72,14 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 ###  📊 GitHub Stats:
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaelinkes&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaelinkes&theme=dark&hide_border=false" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelinkes&layout=compact&theme=dark" />
-</p>
+![Kaelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaelinkes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaelinkes&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelinkes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+>
 
 ---
 
