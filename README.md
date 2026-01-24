@@ -1,6 +1,9 @@
 <h2 align="left">
-Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
+👋 Hi! I’m Kaelin, an IT student and aspiring software engineer.
 </h2>
+<h3 align ="left">
+  Welcome to my GitHub! Have fun exploring my projects and seeing what I’ve been working on 🚀
+</h3>
 
 ###
 
@@ -55,6 +58,18 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 
 ---
 
+
+###  📊 GitHub Stats:
+---
+
+![Kaelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaelinkes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelinkes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kaelinkes&theme=dark&hide_border=false)
+
+---
+
 ### 🔗 Connect With Me
 <div align="left">
   <a href="https://github.com/Kaelinkes">
@@ -70,7 +85,7 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 <br clear="both">
 
 
-
-###
-
 ⭐ *Always learning. Always building.*
+
+![221749](https://github.com/user-attachments/assets/661e8999-247c-422f-b95b-d4713d7cdb53)
+
