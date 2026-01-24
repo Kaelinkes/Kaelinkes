@@ -72,8 +72,6 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 ###  📊 GitHub Stats:
 ---
 
-## 📊 GitHub Stats
-
 ![Kaelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaelinkes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kaelinkes&theme=dark&hide_border=false)
@@ -83,10 +81,5 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 
 ---
 
-### 🏆 GitHub Trophies
-
-
-
-###
 
 ⭐ *Always learning. Always building.*
