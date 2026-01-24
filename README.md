@@ -84,4 +84,5 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 
 ⭐ *Always learning. Always building.*
 
-![End GIF](https://gifs.alphacoders.com/gifs/view/221749)
+![221749](https://github.com/user-attachments/assets/661e8999-247c-422f-b95b-d4713d7cdb53)
+
