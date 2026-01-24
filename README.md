@@ -68,8 +68,8 @@ Hi 👋! My name is Kaelin and I'm an IT student & aspiring software engineer.
 ###
 
 <br clear="both">
-### 📊 GitHub Stats:
 
+###  📊 GitHub Stats:
 ---
 
 https://github-readme-stats.vercel.app/api?username=Kaelinkes&theme=dark&hide_border=false&include_all_commits=false&count_private=false
