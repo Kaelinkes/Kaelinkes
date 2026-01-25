@@ -3,7 +3,7 @@
 </h2>
   
 <h3 align ="left">
-  Welcome to my GitHub!I'm an IT student and aspiring software engineer.<br> Have fun exploring my projects and seeing what I’ve been working on! 🚀
+  <b>Welcome to my GitHub!</b> <br>I'm an IT student and aspiring software engineer.<br> Have fun exploring my projects and seeing what I’ve been working on! 🚀
 </h3>
 
 ###
