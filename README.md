@@ -1,5 +1,6 @@
 <h2 align="left">
-👋 Hi! I’m Kaelin, an IT student and aspiring software engineer.
+ Hello World! <br>
+  I’m Kaelin 👋, an IT student and aspiring software engineer.
 </h2>
 <h3 align ="left">
   Welcome to my GitHub! Have fun exploring my projects and seeing what I’ve been working on 🚀
