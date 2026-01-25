@@ -6,7 +6,9 @@
   <b>Welcome to my GitHub!</b> 
 </h3>
 <h4 align ="left">
-  I'm an IT student and aspiring software engineer.<br> Have fun exploring my projects and seeing what I’ve been working on! 🚀
+  I'm an IT student in my final year and aspiring software engineer. I enjoy coding and learning about new software and also keeping up with the latest tech!
+ <br> 
+ Have fun exploring my projects and seeing what I’ve been working on! 🚀
 </h4>
 
 ---
