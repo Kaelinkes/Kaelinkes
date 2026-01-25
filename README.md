@@ -6,9 +6,11 @@
   Welcome to my GitHub!
 </h3>
 <h4 align ="left">
+
  I'm an IT student in my final year and aspiring software engineer. I enjoy coding and learning about new software and also keeping up with the latest tech! I use this space to share projects, practice new skills, and document my learning journey.
- <br> 
+ <br><br>
  Have fun exploring my projects and seeing what I’ve been working on! 🚀
+
 </h4>
 
 ---
