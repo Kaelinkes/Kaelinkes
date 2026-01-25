@@ -1,11 +1,9 @@
 <h2 align="left">
- Hello World!
- </h2>
- 
- <h3>I’m Kaelin 👋, an IT student and aspiring software engineer.</h3> 
- 
+ Hello World, I’m Kaelin 👋!
+</h2>
+  
 <h3 align ="left">
-  Welcome to my GitHub! Have fun exploring my projects and seeing what I’ve been working on 🚀
+  Welcome to my GitHub!I'm an IT student and aspiring software engineer.<br> Have fun exploring my projects and seeing what I’ve been working on! 🚀
 </h3>
 
 ###
