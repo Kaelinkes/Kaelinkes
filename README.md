@@ -9,6 +9,8 @@
   I'm an IT student and aspiring software engineer.<br> Have fun exploring my projects and seeing what I’ve been working on! 🚀
 </h4>
 
+---
+
 ###
 
 
