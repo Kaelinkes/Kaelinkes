@@ -30,7 +30,8 @@
 - 🎓 BSc Information Technology student  
 - 💻 Passionate about software development & problem-solving  
 - ☁️ Interested in cloud computing & backend systems  
-- 🧪 I enjoy experimenting, learning, and building projects from scratch  
+- 🧪 I enjoy experimenting, learning, and building projects from scratch
+- 🚀 Started my Programming journey in 2021
 
 ---
 
