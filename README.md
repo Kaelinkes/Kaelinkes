@@ -83,7 +83,7 @@
 
 ### 📊 Certifications
 <br>
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fbf99cca-09bb-42bd-baf4-ed85aad70cfe" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/fbf99cca-09bb-42bd-baf4-ed85aad70cfe" />
 
 ---
 
