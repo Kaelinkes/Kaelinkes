@@ -80,6 +80,12 @@
 
 ---
 
+
+### 📊 Certifications
+<br>
+
+---
+
 ### 🔗 Connect With Me
 <div align="left">
   <a href="https://github.com/Kaelinkes">
