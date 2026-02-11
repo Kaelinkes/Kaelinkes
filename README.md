@@ -110,7 +110,7 @@
 <br clear="both">
 
 
-⭐ *Always learning. Always building.*
+⭐ *Always learning. Always building.*⭐ 
 
 ![221749](https://github.com/user-attachments/assets/661e8999-247c-422f-b95b-d4713d7cdb53)
 
