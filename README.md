@@ -5,7 +5,7 @@
 
 
 <h2 align="left">
-  Hey there👋. I'm Kaelin!
+ Hello World, I’m Kaelin 👋!
 </h2>
 
 ---
