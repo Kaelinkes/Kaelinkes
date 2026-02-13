@@ -1,16 +1,20 @@
+<p align="right">
+ <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&left=true&vCenter=true&width=700&duration=1500&pause=700&lines=Hello+World!+🌍;I'm+Kaelin+Kesavjee.+👋;An+Aspiring+Software+Engineer.+🖥️;Welcome+to+my+GitHub.+🚀" />
+</p>
+
+
+
 <h2 align="left">
  Hello World, I’m Kaelin 👋!
 </h2>
-  
+
 <h3 align ="left">
   Welcome to my GitHub!
 </h3>
 <h4 align ="left">
-
  I'm an IT student in my final year and aspiring software engineer. I enjoy coding and learning about new software and also keeping up with the latest tech! I use this space to share projects, practice new skills, and document my learning journey.
  <br><br>
  Have fun exploring my projects and seeing what I’ve been working on! 🚀
-
 </h4>
 
 
