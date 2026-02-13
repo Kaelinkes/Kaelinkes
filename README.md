@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=28&left=true&vCenter=true&width=700&duration=80&pause=1000&lines=Hello+World,+I’m+Kaelin+👋!" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=28&left=true&vCenter=true&width=600&lines=Hello+World,+I’m+Kaelin+👋!" />
+</p>
 
 <h3 align ="left">
   Welcome to my GitHub!
