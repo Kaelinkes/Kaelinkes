@@ -1,7 +1,9 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&left=true&vCenter=true&width=700&duration=90&pause=2000&lines=Hello+World...;I'm+Kaelin+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&left=true&vCenter=true&width=700&duration=900&pause=2000&lines=Hello+World...;I'm+Kaelin+👋" />
 </p>
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=28&left=true&vCenter=true&width=600&lines=Hello+World,+I’m+Kaelin+👋!" />
+</p>
 
 <h3 align ="left">
   Welcome to my GitHub!
