@@ -8,8 +8,6 @@
  Hello World, I’m Kaelin 👋!
 </h2>
 
----
-
 <h3 align ="left">
   Welcome to my GitHub!
 </h3>
