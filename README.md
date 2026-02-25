@@ -2,8 +2,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&left=true&vCenter=true&width=700&duration=1500&pause=700&lines=Hello+World!+🌍;I'm+Kaelin+Kesavjee.+👋;An+Aspiring+Software+Engineer.+🖥️;Welcome+to+my+GitHub.+🚀" />
 </p>
 
-
-
 <h2 align="left">
  Hello World, I’m Kaelin 👋!
 </h2>
