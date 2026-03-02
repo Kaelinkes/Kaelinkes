@@ -94,7 +94,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Lets Connect
 <div align="left">
   <a href="https://github.com/Kaelinkes">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
