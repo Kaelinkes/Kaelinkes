@@ -91,7 +91,7 @@ Want to find out more check out my webiste : https://kaelinkes.github.io/
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/fbf99cca-09bb-42bd-baf4-ed85aad70cfe" />
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/fbcd164e-7e6e-4b96-a594-4f6dd09c6c04" />
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/bf4beea7-6ba5-4604-af70-3a2a2a964e8c" />
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/31dfb025-6f4b-4671-a3d2-1f92a0a02f2f" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/31dfb025-6f4b-4671-a3d2-1f92a0a02f2f" />
 
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/eb4baf04-1fdc-46a0-a447-a7a85368205f" />
 <br><br>
