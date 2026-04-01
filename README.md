@@ -105,6 +105,9 @@ Want to find out more check out my webiste : https://kaelinkes.github.io/
   <a href="https://www.linkedin.com/in/kaelin-kesavjee-a947b0243/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
+  <a href="https://kaelinkes.github.io/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF7139&logoColor=white&style=for-the-badge" height="35" />
+  </a>
 </div>
 
 ###
