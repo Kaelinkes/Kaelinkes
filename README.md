@@ -13,6 +13,9 @@
  I'm an IT student in my final year and aspiring software engineer. I enjoy coding and learning about new software and also keeping up with the latest tech! I use this space to share projects, practice new skills, and document my learning journey.
  <br><br>
  Have fun exploring my projects and seeing what I've been working on! 🚀
+ <br><br>
+ Want to find out more about me? <br>
+ Check out my webiste : https://kaelinkes.github.io/
 </h4>
 
 ###
@@ -31,8 +34,6 @@
 - ☁️ Interested in cloud computing & backend systems  
 - 🧪 I enjoy experimenting, learning, and building projects from scratch
 - 🚀 Started my Programming journey in 2021
-<br><br>
-Want to find out more check out my webiste : https://kaelinkes.github.io/
 
 ---
 
